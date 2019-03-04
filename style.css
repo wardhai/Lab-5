@@ -33,5 +33,11 @@ caption {
      text-align: center;
      color: black;
      border: 5px solid white;
+ }
+	p { 
+	font-style: italic ;
+	font-family: "Times New Roman";
+	color: white;
+	text-align: center;
 
 }
